@@ -1,1 +1,1 @@
-{"name":"Mika","short_name":"Mika","start_url":"/","display":"standalone","background_color":"#fff","lang":"en","scope":"/","description":"測試","icons":[{"src":"/mika.png","sizes":"512x512","type":"image/png","purpose":"any"}]}
+{"name":"Mika","short_name":"Mika","start_url":"pwa-test/","display":"standalone","background_color":"#fff","lang":"en","scope":"/pwa-test/","description":"測試","icons":[{"src":"/pwa-test/mika.png","sizes":"512x512","type":"image/png","purpose":"any"}]}
